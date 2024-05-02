@@ -1,0 +1,40 @@
+COMPND    MOL_ID: RDOUDBCTQMOLQP-GSVOUGTGSA-N;
+HETATM    1  O1  UNL     1      21.296 -24.591 -13.381  1.00  0.00           O  
+HETATM    2  C1  UNL     1      22.146 -24.750 -12.333  1.00  0.00           C  
+HETATM    3  C2  UNL     1      21.767 -24.402 -11.061  1.00  0.00           C  
+HETATM    4  C3  UNL     1      22.685 -24.585 -10.020  1.00  0.00           C  
+HETATM    5  C4  UNL     1      23.935 -25.111 -10.354  1.00  0.00           C  
+HETATM    6  N1  UNL     1      24.257 -25.421 -11.631  1.00  0.00           N  
+HETATM    7  N2  UNL     1      23.354 -25.247 -12.636  1.00  0.00           N  
+HETATM    8  N3  UNL     1      24.926 -25.329  -9.391  1.00  0.00           N  
+HETATM    9  C5  UNL     1      22.350 -24.156  -8.614  1.00  0.00           C  
+HETATM   10  C6  UNL     1      22.903 -22.768  -8.308  1.00  0.00           C  
+HETATM   11  O2  UNL     1      20.931 -24.141  -8.435  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5    5    9
+CONECT    5    6    8
+CONECT    6    7    7
+CONECT    9   10   11
+END
+COMPND    MOL_ID: RDOUDBCTQMOLQP-VKHMYHEASA-N;
+HETATM    1  O1  UNL     1      21.302 -24.626 -13.359  1.00  0.00           O  
+HETATM    2  C1  UNL     1      22.185 -24.716 -12.331  1.00  0.00           C  
+HETATM    3  C2  UNL     1      21.837 -24.295 -11.071  1.00  0.00           C  
+HETATM    4  C3  UNL     1      22.786 -24.412 -10.050  1.00  0.00           C  
+HETATM    5  C4  UNL     1      24.029 -24.953 -10.387  1.00  0.00           C  
+HETATM    6  N1  UNL     1      24.316 -25.340 -11.652  1.00  0.00           N  
+HETATM    7  N2  UNL     1      23.384 -25.229 -12.639  1.00  0.00           N  
+HETATM    8  N3  UNL     1      25.050 -25.065  -9.439  1.00  0.00           N  
+HETATM    9  C5  UNL     1      22.436 -23.948  -8.658  1.00  0.00           C  
+HETATM   10  C6  UNL     1      23.052 -22.594  -8.322  1.00  0.00           C  
+HETATM   11  O2  UNL     1      22.851 -24.924  -7.699  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5    5    9
+CONECT    5    6    8
+CONECT    6    7    7
+CONECT    9   10   11
+END

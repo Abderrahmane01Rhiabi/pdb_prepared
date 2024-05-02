@@ -1,0 +1,23 @@
+COMPND    MOL_ID: GRCTUWVIKNASIS-UHFFFAOYSA-N;
+HETATM    1  N1  UNL     1      23.638 -25.019  -9.740  1.00  0.00           N  
+HETATM    2  C1  UNL     1      22.646 -23.935  -9.757  1.00  0.00           C  
+HETATM    3  C2  UNL     1      21.409 -24.349 -10.557  1.00  0.00           C  
+HETATM    4  C3  UNL     1      21.783 -24.776 -11.987  1.00  0.00           C  
+HETATM    5  O1  UNL     1      22.335 -23.634 -12.661  1.00  0.00           O  
+HETATM    6  C4  UNL     1      22.902 -25.834 -11.944  1.00  0.00           C  
+HETATM    7  C5  UNL     1      24.083 -25.360 -11.094  1.00  0.00           C  
+HETATM    8  N2  UNL     1      20.652 -25.225 -12.837  1.00  0.00           N  
+HETATM    9  C6  UNL     1      20.498 -26.681 -12.931  1.00  0.00           C  
+HETATM   10  N3  UNL     1      19.388 -24.679 -12.345  1.00  0.00           N  
+HETATM   11  N4  UNL     1      24.754 -24.633  -8.970  1.00  0.00           N  
+HETATM   12  C7  UNL     1      24.998 -25.327  -7.810  1.00  0.00           C  
+HETATM   13  N5  UNL     1      24.293 -25.384  -6.734  1.00  0.00           N  
+CONECT    1    2    7   11
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    6    8
+CONECT    6    7
+CONECT    8    9   10
+CONECT   11   12
+CONECT   12   13   13
+END

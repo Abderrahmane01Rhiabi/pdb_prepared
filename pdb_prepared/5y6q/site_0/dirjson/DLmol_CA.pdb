@@ -1,0 +1,23 @@
+COMPND    MOL_ID: CAJMAUQUTNGNNS-UHFFFAOYSA-N;
+HETATM    1  N1  UNL     1      23.869 -24.933 -12.065  1.00  0.00           N  
+HETATM    2  N2  UNL     1      24.732 -25.434 -11.134  1.00  0.00           N  
+HETATM    3  C1  UNL     1      24.363 -25.316  -9.904  1.00  0.00           C  
+HETATM    4  C2  UNL     1      23.110 -24.686  -9.391  1.00  0.00           C  
+HETATM    5  C3  UNL     1      22.300 -24.244 -10.362  1.00  0.00           C  
+HETATM    6  C4  UNL     1      22.660 -24.353 -11.790  1.00  0.00           C  
+HETATM    7  O1  UNL     1      21.900 -23.932 -12.654  1.00  0.00           O  
+HETATM    8  O2  UNL     1      25.157 -25.812  -8.938  1.00  0.00           O  
+HETATM    9  N3  UNL     1      22.824 -24.598  -8.032  1.00  0.00           N  
+HETATM   10  N4  UNL     1      23.678 -24.501  -6.965  1.00  0.00           N  
+HETATM   11  C5  UNL     1      24.360 -23.347  -6.696  1.00  0.00           C  
+HETATM   12  N5  UNL     1      24.661 -22.973  -5.504  1.00  0.00           N  
+CONECT    1    2    6
+CONECT    2    3    3
+CONECT    3    4    8
+CONECT    4    5    5    9
+CONECT    5    6
+CONECT    6    7    7
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   12
+END

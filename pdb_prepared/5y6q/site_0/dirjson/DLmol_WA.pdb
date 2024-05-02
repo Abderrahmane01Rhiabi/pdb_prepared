@@ -1,0 +1,76 @@
+COMPND    MOL_ID: WAZXROWENJLOKF-IMTBSYHQSA-N;
+HETATM    1  C1  UNL     1      12.425 -25.510 -12.348  1.00  0.00           C  
+HETATM    2  N1  UNL     1      13.679 -25.836 -12.293  1.00  0.00           N  
+HETATM    3  C2  UNL     1      14.369 -24.602 -12.698  1.00  0.00           C  
+HETATM    4  C3  UNL     1      13.281 -23.609 -12.955  1.00  0.00           C  
+HETATM    5  C4  UNL     1      12.075 -24.146 -12.737  1.00  0.00           C  
+HETATM    6  O1  UNL     1      15.222 -24.110 -11.693  1.00  0.00           O  
+HETATM    7  C5  UNL     1      13.602 -22.211 -13.381  1.00  0.00           C  
+HETATM    8  C6  UNL     1      14.024 -22.138 -14.841  1.00  0.00           C  
+HETATM    9  C7  UNL     1      10.676 -23.678 -12.858  1.00  0.00           C  
+HETATM   10  O2  UNL     1      10.552 -22.798 -13.966  1.00  0.00           O  
+HETATM   11  C8  UNL     1       9.416 -21.039 -15.084  1.00  0.00           C  
+HETATM   12  C9  UNL     1       9.351 -22.042 -13.946  1.00  0.00           C  
+HETATM   13  O3  UNL     1       8.218 -22.868 -14.152  1.00  0.00           O  
+CONECT    1    2    2    5
+CONECT    2    3
+CONECT    3    4    6
+CONECT    4    5    5    7
+CONECT    5    9
+CONECT    7    8
+CONECT    9   10
+CONECT   10   12
+CONECT   11   12
+CONECT   12   13
+END
+COMPND    MOL_ID: WAGOKTJUMNZODG-UHFFFAOYSA-N;
+HETATM    1  C1  UNL     1      24.498 -29.121  -8.492  1.00  0.00           C  
+HETATM    2  C2  UNL     1      24.612 -30.463  -8.894  1.00  0.00           C  
+HETATM    3  C3  UNL     1      25.451 -31.312  -8.173  1.00  0.00           C  
+HETATM    4  C4  UNL     1      26.095 -30.855  -7.023  1.00  0.00           C  
+HETATM    5  C5  UNL     1      25.927 -29.534  -6.601  1.00  0.00           C  
+HETATM    6  C6  UNL     1      25.126 -28.642  -7.333  1.00  0.00           C  
+HETATM    7  N1  UNL     1      24.063 -30.884 -10.120  1.00  0.00           N  
+HETATM    8  O1  UNL     1      23.713 -28.308  -9.273  1.00  0.00           O  
+HETATM    9  C7  UNL     1      24.951 -27.225  -6.834  1.00  0.00           C  
+HETATM   10  C8  UNL     1      23.333 -24.220  -8.556  1.00  0.00           C  
+HETATM   11  C9  UNL     1      23.895 -24.292  -9.829  1.00  0.00           C  
+HETATM   12  C10 UNL     1      24.803 -25.308 -10.136  1.00  0.00           C  
+HETATM   13  C11 UNL     1      25.150 -26.258  -9.176  1.00  0.00           C  
+HETATM   14  C12 UNL     1      24.584 -26.212  -7.896  1.00  0.00           C  
+HETATM   15  C13 UNL     1      23.685 -25.176  -7.597  1.00  0.00           C  
+HETATM   16  C14 UNL     1      22.826 -21.918  -8.248  1.00  0.00           C  
+HETATM   17  O2  UNL     1      22.439 -23.281  -8.122  1.00  0.00           O  
+CONECT    1    2    2    6    8
+CONECT    2    3    7
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    9
+CONECT    9   14
+CONECT   10   11   11   15   17
+CONECT   11   12
+CONECT   12   13   13
+CONECT   13   14
+CONECT   14   15   15
+CONECT   16   17
+END
+COMPND    MOL_ID: WARCRYXKINZHGQ-UHFFFAOYSA-N;
+HETATM    1  C1  UNL     1      22.093 -24.777 -12.189  1.00  0.00           C  
+HETATM    2  N1  UNL     1      21.399 -25.918 -12.577  1.00  0.00           N  
+HETATM    3  O1  UNL     1      22.037 -23.719 -12.812  1.00  0.00           O  
+HETATM    4  N2  UNL     1      20.538 -25.846 -13.696  1.00  0.00           N  
+HETATM    5  C2  UNL     1      22.892 -24.881 -10.937  1.00  0.00           C  
+HETATM    6  C3  UNL     1      23.869 -25.869 -10.756  1.00  0.00           C  
+HETATM    7  C4  UNL     1      24.594 -25.923  -9.563  1.00  0.00           C  
+HETATM    8  C5  UNL     1      24.352 -24.992  -8.553  1.00  0.00           C  
+HETATM    9  C6  UNL     1      23.392 -23.997  -8.735  1.00  0.00           C  
+HETATM   10  C7  UNL     1      22.666 -23.938  -9.926  1.00  0.00           C  
+CONECT    1    2    3    3    5
+CONECT    2    4
+CONECT    5    6    6   10
+CONECT    6    7
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10   10
+END
